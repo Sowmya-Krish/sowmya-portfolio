@@ -30,9 +30,7 @@ function About() {
                 borderRadius:"5%",
                 transition: "ease-in",
                 transitionDelay: "0.2s",
-                marginLeft:"80px",
-                marginBottom:"50px"
-              }}
+                   }}
             /> 
                 
               </div>
